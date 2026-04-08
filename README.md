@@ -9,10 +9,10 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maarcalcover">
+  <a href="https://www.linkedin.com/in/marc-alcover-ba%C3%B1on-392240233/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/maarcalcover">
+  <a href="https://www.instagram.com/maarcalcover_">
     <img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:alcovermarc@gmail.com">
