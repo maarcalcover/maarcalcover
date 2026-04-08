@@ -1,23 +1,25 @@
 <h1 align="center">Marc Alcover</h1>
 
-<p align="center">Front-End Developer</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=25&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Building+clean+interfaces;Always+learning+new+things" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;Clean+UI+Focused;Always+learning" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
 ---
 
-## 01 — Profile
+## 🧠 Profile
 
-Front-End Developer based in Valencia.  
-Focused on building interfaces that feel simple, clean and intuitive.
-
-I enjoy the process of taking an idea and turning it into something real, paying attention to both design and code.
+<p align="center">
+  Front-End Developer based in Valencia <br/>
+  Focused on clean UI, smooth UX and modern web development
+</p>
 
 ---
 
-## 02 — Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vite,figma" />
@@ -25,18 +27,26 @@ I enjoy the process of taking an idea and turning it into something real, paying
 
 ---
 
-## 03 — What Drives Me
+## 🚀 Currently
 
 <p align="center">
-  clean design • smooth interactions • real usability • continuous improvement
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2000&color=ffffff&center=true&vCenter=true&width=400&lines=Learning+React;Building+projects;Improving+UI%2FUX;Writing+clean+code" />
 </p>
 
 ---
 
-## 04 — Current Path
+## 🌊 Visual Flow
 
-```txt
-→ Learning React deeper
-→ Building personal projects
-→ Improving UI/UX sensitivity
-→ Writing more scalable code
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+</p>
+
+---
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://github.com/TUUSUARIO">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
