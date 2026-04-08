@@ -9,13 +9,13 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/maarcalcover">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/TU_USUARIO">
+  <a href="https://www.instagram.com/maarcalcover">
     <img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:TUEMAIL@gmail.com">
+  <a href="mailto:alcovermarc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-888888?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
