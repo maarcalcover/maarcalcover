@@ -45,18 +45,6 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maarcalcover&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:232526,100:414345&text=Current%20Focus&fontColor=ffffff&fontSize=22" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/UI%2FUX-2F2F2F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Code-6B7280?style=for-the-badge" />
-</p>
 
 ---
 
