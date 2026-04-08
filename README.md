@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=151021,29193d,151021&text=Marc%20Alcover&fontColor=00e5ff&fontSize=55&animation=twinkling&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=mountain&height=300&color=gradient&customColorList=0d1117,1f293a,0d1117&text=Marc%20Alcover&fontColor=00f2fe&fontSize=65&animation=twinkling&fontAlignY=35&stroke=00f2fe&strokeWidth=1" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=d1d5db&center=true&vCenter=true&width=600&lines=Front-End+Developer;Building+clean+and+modern+interfaces;Learning%2C+improving+and+creating" alt="Typing SVG" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://i.imgur.com/8Q967y1.gif" width="100%" height="2px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=400&color=f0f6fc&center=true&vCenter=true&width=600&lines=Front-End+Developer;Building+clean+and+modern+interfaces;Learning%2C+improving+and+creating" alt="Typing SVG" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--End%20Developer-111111?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://i.imgur.com/K6Y0lB0.gif" width="100%" height="4px">
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End%20Developer-0d1117?style=for-the-badge&logo=javascript&logoColor=00f2fe" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Valencia-Spain-555555?style=for-the-badge&logo=mapmarker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Valencia-Spain-1f293a?style=for-the-badge&logo=mapmarker&logoColor=f0f6fc" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Learn%20and%20Build-888888?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Learn%20and%20Build-0d1117?style=for-the-badge&logo=rocket&logoColor=00f2fe" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://i.imgur.com/8Q967y1.gif" width="100%" height="2px">
+  <img src="https://i.imgur.com/K6Y0lB0.gif" width="100%" height="4px">
 </p>
 
 <br/>
@@ -44,29 +44,29 @@
 <br/>
 
 <p align="center">
-  <img src="https://i.imgur.com/8Q967y1.gif" width="100%" height="2px">
+  <img src="https://i.imgur.com/K6Y0lB0.gif" width="100%" height="4px">
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=232526,414345&text=Current%20Focus&fontColor=ffffff&fontSize=25&animation=fadeIn&fontAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=1f293a,0d1117,1f293a&text=Current%20Focus&fontColor=00f2fe&fontSize=28&animation=fadeIn&fontAlignY=50" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   &nbsp;
-  <img src="https://img.shields.io/badge/UI%2FUX-2F2F2F?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-1f293a?style=for-the-badge&logo=figma&logoColor=f0f6fc" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Responsive%20Design-4B5563?style=for-the-badge&logo=responsive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-0d1117?style=for-the-badge&logo=responsive&logoColor=00f2fe" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Clean%20Code-6B7280?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Code-1f293a?style=for-the-badge&logo=visualstudiocode&logoColor=f0f6fc" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://i.imgur.com/8Q967y1.gif" width="100%" height="2px">
+  <img src="https://i.imgur.com/K6Y0lB0.gif" width="100%" height="4px">
 </p>
 
 <br/>
@@ -85,7 +85,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://i.imgur.com/8Q967y1.gif" width="100%" height="2px">
+  <img src="https://i.imgur.com/K6Y0lB0.gif" width="100%" height="4px">
 </p>
 
 <br/>
@@ -104,5 +104,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1f1c2c,928dab,1f1c2c&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1f293a,0d1117&height=120&section=footer" width="100%"/>
 </p>
