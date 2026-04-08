@@ -16,10 +16,23 @@
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,vite,figma" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maarcalcover&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcalcover&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maarcalcover&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -37,7 +50,7 @@
 
 ---
 
-<h3 align="center">About Me</h3>
+<h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
   Junior Front-End Developer based in Valencia.<br/>
@@ -47,7 +60,7 @@
 
 ---
 
-<h3 align="center">Connect</h3>
+<h3 align="center">🌐 Connect</h3>
 
 <p align="center">
   <a href="https://github.com/maarcalcover">
