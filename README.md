@@ -1,12 +1,12 @@
-<h1 align="center">Marc Alcover</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2800&pause=800&color=6B7280&center=true&vCenter=true&width=600&lines=Front-End+Developer;Building+clean+and+modern+interfaces;Learning%2C+improving+and+creating" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:1f1c2c,100:928dab&text=Marc%20Alcover&fontColor=ffffff&fontSize=45&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=header&reversal=false&textBg=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2800&pause=800&color=6B7280&center=true&vCenter=true&width=600&lines=Front-End+Developer;Building+clean+and+modern+interfaces;Learning%2C+improving+and+creating" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Front--End%20Developer-111111?style=for-the-badge" />
@@ -24,7 +24,9 @@
 
 ---
 
-<h3 align="center">Current Focus</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:232526,100:414345&text=Current%20Focus&fontColor=ffffff&fontSize=22" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -38,9 +40,9 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  Junior Front-End Developer focused on creating clean, responsive and modern interfaces.
-  <br/>
-  I enjoy turning ideas into real projects and improving my skills with every build.
+  Junior Front-End Developer based in Valencia.<br/>
+  Focused on building clean, modern and user-friendly interfaces.<br/>
+  Always learning and improving with every project.
 </p>
 
 ---
@@ -51,4 +53,10 @@
   <a href="https://github.com/TUUSUARIO">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=100&section=footer"/>
 </p>
