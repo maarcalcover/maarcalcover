@@ -1,24 +1,23 @@
 <h1 align="center">Marc Alcover</h1>
 
-<p align="center">
-  Front-End Developer
-</p>
+<p align="center">Front-End Developer</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;Building+clean+interfaces;Learning+every+day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;Clean+UI+Focused;Always+learning" />
 </p>
 
 ---
 
-## About
+## 01 — Profile
 
-Front-End Developer based in Valencia, focused on building clean, modern and responsive interfaces.
+Front-End Developer based in Valencia.  
+Focused on building interfaces that feel simple, clean and intuitive.
 
-Currently improving my skills through personal projects, learning new technologies and paying attention to detail in UI and UX.
+I enjoy the process of taking an idea and turning it into something real, paying attention to both design and code.
 
 ---
 
-## Tech Stack
+## 02 — Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vite,figma" />
@@ -26,32 +25,18 @@ Currently improving my skills through personal projects, learning new technologi
 
 ---
 
-## Currently
-
-- Learning React deeper  
-- Building personal projects  
-- Improving UI/UX skills  
-- Writing cleaner and more scalable code  
-
----
-
-## Mindset
-
-- Constant learning  
-- Attention to detail  
-- Passion for clean design  
-- Focus on real improvement  
-
----
-
-## Contact
+## 03 — What Drives Me
 
 <p align="center">
-  <a href="https://github.com/TUUSUARIO">GitHub</a>
+  clean design • smooth interactions • real usability • continuous improvement
 </p>
 
 ---
 
-<p align="center">
-  <i>Simple. Clean. Effective.</i>
-</p>
+## 04 — Current Path
+
+```txt
+→ Learning React deeper
+→ Building personal projects
+→ Improving UI/UX sensitivity
+→ Writing more scalable code
