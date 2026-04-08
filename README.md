@@ -1,63 +1,67 @@
-# 👋 Hey, I'm Marc Alcover
+<h1 align="center">Marc Alcover</h1>
 
-💻 Front-End Developer | 🚀 Passionate about building clean & modern web experiences  
-📍 Based in Valencia, Spain  
+<p align="center">
+  Front-End Developer
+</p>
 
----
-
-## 🧑‍💻 About Me
-
-I'm a Front-End Developer focused on creating intuitive, responsive and visually appealing web applications.  
-I enjoy turning ideas into real products and continuously improving my skills to stay up to date with modern technologies.
-
-Currently, I'm growing as a developer by building projects, learning new tools, and refining my code every day.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+modern+web+experiences;Clean+code+%7C+UI+focused;Always+learning+something+new" />
+</p>
 
 ---
 
-## ⚡ Tech Stack
+## About Me
 
-💡 Languages & Markup  
-- HTML5  
-- CSS3 / SCSS  
-- JavaScript (ES6+)  
-
-⚙️ Frameworks & Tools  
-- React  
-- Git & GitHub  
-- Vite / Webpack  
-- Figma  
+Front-End Developer based in Valencia, focused on building clean, modern and user-friendly interfaces.  
+I enjoy transforming ideas into real products and constantly improving my skills.
 
 ---
 
-## 🚀 What I'm Working On
+## Tech Stack
 
-- Improving my React skills  
-- Building personal projects  
-- Learning best practices in UI/UX  
-- Writing cleaner and more scalable code  
-
----
-
-## 🎯 Goals
-
-- Become a solid Front-End Developer  
-- Contribute to real-world projects  
-- Keep learning every day  
-- Build products that people actually enjoy using  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vite,figma" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## Stats
 
-- GitHub: https://github.com/tuusuario  
-- LinkedIn: (pon aquí tu link si tienes)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## Activity
 
-I love combining design and code to create experiences that feel simple, but are actually well thought out.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-⭐️ *"Code is not just about making things work, it's about making them feel right."*
+## Current Focus
+
+- React & modern frontend
+- UI/UX improvement
+- Clean architecture
+- Real-world projects
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/TUUSUARIO">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Design. Code. Improve.</i>
+</p>
