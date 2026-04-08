@@ -50,7 +50,7 @@
 <h3 align="center">Connect</h3>
 
 <p align="center">
-  <a href="https://github.com/TUUSUARIO">
+  <a href="https://github.com/maarcalcover">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
