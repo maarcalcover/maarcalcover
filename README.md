@@ -33,7 +33,7 @@
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,vite,figma,sql" />
 </p>
 
 ---
